@@ -38,9 +38,9 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/ug7xd/ 
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0002-6892-4643 
+- icon: f1d7
+  icon_pack: fab
+  link: http://weixin.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/haocheng-liao
