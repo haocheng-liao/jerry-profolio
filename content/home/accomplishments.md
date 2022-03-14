@@ -31,7 +31,7 @@ item:
   organization_url: https://www.coursera.org
   title: Programming Fundamentals
   url: ""
-- certificate_url: https://www.coursera.org/account/accomplishments/verify/ANNL3BRPDPWS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+- certificate_url:https://coursera.org/share/3af4f5b0133ec9160a5f27565245bb5c
   date_end: ""
   date_start: "2021-09-07"
   description: brief introduction to the multivariate calculus required to build many common machine learning techniques.
