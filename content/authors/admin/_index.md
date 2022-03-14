@@ -32,12 +32,10 @@ social:
   icon_pack: fab
   label: Find me on Twitter
   link: https://twitter.com/shilaan01
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/ug7xd/ 
+
+- icon: phone
+  icon_pack: fas
+  link: "" 
 - icon: weixin
   icon_pack: fab
   link: http://weixin.com/
@@ -46,10 +44,10 @@ social:
   link: https://github.com/haocheng-liao
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/shilaanalzahawi/
+  link: https://www.linkedin.com/in/%E6%B5%A9%E7%A8%8B-%E5%BB%96-3288b6215/
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/shilaan01/ 
+  link: "" 
 superuser: yes
 bio: My research interests include Economic, Finance, and Consulting Methodology
 greeting: jerry::Liao()
