@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: haocheng1999@g.ucla.edu
+  phone: 213-550-8472
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: 2 chenile
+    city: Irvine
     region: CA
-    postcode: '94305'
+    postcode: '92614'
     country: United States
     country_code: US
   coordinates:
