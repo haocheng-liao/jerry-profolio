@@ -28,14 +28,7 @@ social:
   link: haocheng1999@g.ucla.edu 
 - display:
     header: yes
-  icon: twitter
-  icon_pack: fab
-  label: Find me on Twitter
-  link: https://twitter.com/shilaan01
 
-- icon: phone
-  icon_pack: fas
-  link: "" 
 - icon: weixin
   icon_pack: fab
   link: http://weixin.com/
@@ -45,9 +38,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E6%B5%A9%E7%A8%8B-%E5%BB%96-3288b6215/
-- icon: instagram
-  icon_pack: fab
-  link: "" 
+
 superuser: yes
 bio: My research interests include Economic, Finance, and Consulting Methodology
 greeting: jerry::Liao()
