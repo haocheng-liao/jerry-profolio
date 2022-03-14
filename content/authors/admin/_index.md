@@ -23,7 +23,7 @@ interests:
 
 
 # Education to show in About widget
-education: Undergraduate program in UCLA, attend Brown university in 2022 fall
+education: Undergraduate program in UCLA, attend Brown university in fall
   courses:
   - course: Undergraduate in Data Sci
     institution: UCLA
