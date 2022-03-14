@@ -25,7 +25,7 @@ role: Undergraduate student in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shilaan@stanford.edu 
+  link: haocheng1999@g.ucla.edu 
 - display:
     header: yes
   icon: twitter
@@ -38,7 +38,7 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/ug7xd/ 
-- icon: f1d7
+- icon: weixin
   icon_pack: fab
   link: http://weixin.com/
 - icon: github
