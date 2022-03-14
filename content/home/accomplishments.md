@@ -40,13 +40,13 @@ item:
   organization_url: https://www.coursera.org
   title: ' Business Metrics for Data-Driven Companies'
   url: ""
-- certificate_url: https://coursera.org/share/0ee6a0b1affc112c72c367ee0614ced7
+- certificate_url: https://coursera.org/share/b2ade156dbb5d0415275a2e83cbbc354
   date_end: ""
-  date_start: "2021-08-17"
+  date_start: "2021-08-23"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: ' Business Metrics for Data-Driven Companies'
+  title: '  Mathematics for Machine Learning: Linear Algebra'
   url: ""
 
 design:
