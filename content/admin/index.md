@@ -6,13 +6,13 @@ education:
   - course: Econ 104 Data Sci
 email: "haochengliao@g.ucla.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Dynamic portfolio investment
+- Competitive strategy
+
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: UCLA
+  url: "www.ucla.edu"
+role: Alumni of UCLA
 social:
 - icon: envelope
   icon_pack: fas
