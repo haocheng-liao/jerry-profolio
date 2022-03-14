@@ -36,7 +36,6 @@ item:
   date_start: "2021-09-07"
   description: brief introduction to the multivariate calculus required to build many common machine learning techniques.
   organization: Coursera
-  organization_url: https://www.coursera.org
   title: Mathematics for Machine Learning: Multivariate Calculus
   url: ""
 - certificate_url: https://coursera.org/share/0ee6a0b1affc112c72c367ee0614ced7
