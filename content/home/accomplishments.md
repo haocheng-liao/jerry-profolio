@@ -40,6 +40,14 @@ item:
   organization_url: https://www.coursera.org
   title: ' Business Metrics for Data-Driven Companies'
   url: ""
+- certificate_url: https://coursera.org/share/0ee6a0b1affc112c72c367ee0614ced7
+  date_end: ""
+  date_start: "2021-08-17"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: ' Business Metrics for Data-Driven Companies'
+  url: ""
 
 design:
   columns: '2' 
