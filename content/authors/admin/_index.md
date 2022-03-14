@@ -57,6 +57,6 @@ greeting: jerry::Liao()
 
 I am a undergraduate student in Economic in UCLA  and an intern at the DiDi company for Leadership Advisory research. My research interests include Human resource strategy, Dynamic portfolio investment and competitive strategy. I am interested to do in-depth research on the portfolio investment of stock market and virtual currencies, such as in using the historical data of the exchange to regress the stock beta value, making dynamic portfolios based on historical volatility, mean risk, stock weight and variety structure adjustment - in order to look for investment methods to achieve low risk and high return to provide references to investors for making investment decisions.
 
-My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions --- a graduate-level, introductory class on probability and statistics using {{< icon name="r-project" pack="fab" >}} --- and I'm a technical mentor for the Stanford Data Science for Social Good program. I learn by teaching, so I consider myself very lucky! 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
