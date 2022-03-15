@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - reading
+      - Reading
     tag: ''
     category: ''
     publication_type: ''
