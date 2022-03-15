@@ -27,6 +27,11 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+image:
+  caption: 'Image credit: [**JD**](https://e.jd.com/30304808.html)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 authors:
 - admin
