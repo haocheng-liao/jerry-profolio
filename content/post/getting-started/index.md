@@ -21,9 +21,9 @@ draft: false
 featured: false
 
 # Featured image
-# Place an image named `post.jpg/png` in this page's folder and customize its options here.
+# Place an image named `post.image` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://e.jd.com/30304808.html)'
+  caption: 'Image credit: [**JD**](https://e.jd.com/30304808.html)'
   focal_point: ""
   placement: 2
   preview_only: false
