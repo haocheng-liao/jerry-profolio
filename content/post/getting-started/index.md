@@ -1,6 +1,6 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Personal reading summary
+subtitle: Welcome 👋 I am reading some interest books about consulting, internet,and investment. Here I will post some personal summary and book review.
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -9,10 +9,10 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-3-15T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-3-15T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,14 +23,14 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://e.jd.com/30304808.html)'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
+- 廖浩程
 
 tags:
 - Academic
