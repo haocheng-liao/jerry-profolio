@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - posts
+      - 'posts'
     tag: ''
     category: ''
     publication_type: ''
