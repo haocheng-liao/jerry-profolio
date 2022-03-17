@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Protential bank Costomer prediction
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: instagram-square
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://www.instagram.com/accounts/login/?next=/simple_jerry1999/
 url_code: ""
 url_pdf: ""
 url_slides: ""
